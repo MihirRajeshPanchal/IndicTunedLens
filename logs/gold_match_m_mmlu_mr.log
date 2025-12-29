@@ -1,0 +1,1786 @@
+Loading tokenizer: sarvamai/sarvam-1
+Loading original CSV: /mnt/storage/deeksha/indictunedlens/data/m_mmlu_mr.csv
+Loaded 221 prompts from original CSV
+
+============================================================
+Processing LOGITLENS files
+============================================================
+Found 221 files to process
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_0.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_0.csv
+Match rate: 567/30160 (1.88%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_1.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_1.csv
+Match rate: 184/22330 (0.82%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_10.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_10.csv
+Match rate: 663/21460 (3.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_100.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_100.csv
+Match rate: 9/17690 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_101.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_101.csv
+Match rate: 5/11890 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_102.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_102.csv
+Match rate: 198/21750 (0.91%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_103.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_103.csv
+Match rate: 0/37990 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_104.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_104.csv
+Match rate: 25/23780 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_105.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_105.csv
+Match rate: 51/17110 (0.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_106.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_106.csv
+Match rate: 116/25230 (0.46%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_107.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_107.csv
+Match rate: 262/44080 (0.59%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_108.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_108.csv
+Match rate: 640/26100 (2.45%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_109.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_109.csv
+Match rate: 520/25230 (2.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_11.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_11.csv
+Match rate: 914/49010 (1.86%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_110.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_110.csv
+Match rate: 0/16240 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_111.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_111.csv
+Match rate: 1130/40310 (2.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_112.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_112.csv
+Match rate: 36/20300 (0.18%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_113.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_113.csv
+Match rate: 199/21750 (0.91%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_114.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_114.csv
+Match rate: 499/38860 (1.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_115.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_115.csv
+Match rate: 323/51910 (0.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_116.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_116.csv
+Match rate: 289/27550 (1.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_117.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_117.csv
+Match rate: 255/20880 (1.22%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_118.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_118.csv
+Match rate: 302/42050 (0.72%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_119.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_119.csv
+Match rate: 17/18560 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_12.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_12.csv
+Match rate: 10/20010 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_120.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_120.csv
+Match rate: 15/120930 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_121.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_121.csv
+Match rate: 180/18270 (0.99%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_122.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_122.csv
+Match rate: 145/16820 (0.86%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_123.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_123.csv
+Match rate: 340/29870 (1.14%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_124.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_124.csv
+Match rate: 23/20300 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_125.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_125.csv
+Match rate: 875/39730 (2.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_126.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_126.csv
+Match rate: 17/22330 (0.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_127.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_127.csv
+Match rate: 0/17690 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_128.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_128.csv
+Match rate: 21/20010 (0.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_129.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_129.csv
+Match rate: 0/14500 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_13.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_13.csv
+Match rate: 200/39730 (0.50%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_130.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_130.csv
+Match rate: 0/15660 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_131.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_131.csv
+Match rate: 551/38570 (1.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_132.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_132.csv
+Match rate: 169/16530 (1.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_133.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_133.csv
+Match rate: 4/16530 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_134.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_134.csv
+Match rate: 34/27260 (0.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_135.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_135.csv
+Match rate: 256/34220 (0.75%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_136.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_136.csv
+Match rate: 22/32190 (0.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_137.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_137.csv
+Match rate: 474/20300 (2.33%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_138.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_138.csv
+Match rate: 471/24360 (1.93%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_139.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_139.csv
+Match rate: 0/24940 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_14.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_14.csv
+Match rate: 532/28130 (1.89%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_140.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_140.csv
+Match rate: 13/18270 (0.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_141.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_141.csv
+Match rate: 3/15370 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_142.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_142.csv
+Match rate: 147/17110 (0.86%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_143.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_143.csv
+Match rate: 21/19430 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_144.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_144.csv
+Match rate: 285/24360 (1.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_145.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_145.csv
+Match rate: 0/21170 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_146.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_146.csv
+Match rate: 881/40020 (2.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_147.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_147.csv
+Match rate: 730/67860 (1.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_148.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_148.csv
+Match rate: 129/24650 (0.52%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_149.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_149.csv
+Match rate: 297/28420 (1.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_15.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_15.csv
+Match rate: 43/23780 (0.18%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_150.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_150.csv
+Match rate: 29/23780 (0.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_151.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_151.csv
+Match rate: 21/15370 (0.14%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_152.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_152.csv
+Match rate: 14/14210 (0.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_153.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_153.csv
+Match rate: 28/47560 (0.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_154.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_154.csv
+Match rate: 276/40600 (0.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_155.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_155.csv
+Match rate: 9/15370 (0.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_156.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_156.csv
+Match rate: 424/41760 (1.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_157.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_157.csv
+Match rate: 79/22910 (0.34%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_158.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_158.csv
+Match rate: 202/22910 (0.88%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_159.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_159.csv
+Match rate: 380/23780 (1.60%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_16.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_16.csv
+Match rate: 1277/124410 (1.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_160.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_160.csv
+Match rate: 843/45530 (1.85%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_161.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_161.csv
+Match rate: 79/34220 (0.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_162.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_162.csv
+Match rate: 394/33060 (1.19%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_163.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_163.csv
+Match rate: 21/21750 (0.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_164.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_164.csv
+Match rate: 173/25520 (0.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_165.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_165.csv
+Match rate: 4/19430 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_166.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_166.csv
+Match rate: 5/19430 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_167.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_167.csv
+Match rate: 908/40310 (2.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_168.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_168.csv
+Match rate: 201/32480 (0.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_169.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_169.csv
+Match rate: 1/18560 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_17.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_17.csv
+Match rate: 7/18560 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_170.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_170.csv
+Match rate: 255/35670 (0.71%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_171.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_171.csv
+Match rate: 542/30160 (1.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_172.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_172.csv
+Match rate: 309/37410 (0.83%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_173.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_173.csv
+Match rate: 394/51910 (0.76%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_174.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_174.csv
+Match rate: 435/38860 (1.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_175.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_175.csv
+Match rate: 206/29870 (0.69%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_176.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_176.csv
+Match rate: 70/27550 (0.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_177.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_177.csv
+Match rate: 0/16530 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_178.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_178.csv
+Match rate: 1096/31610 (3.47%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_179.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_179.csv
+Match rate: 2/16240 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_18.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_18.csv
+Match rate: 0/12470 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_180.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_180.csv
+Match rate: 379/35960 (1.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_181.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_181.csv
+Match rate: 450/31900 (1.41%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_182.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_182.csv
+Match rate: 7/22330 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_183.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_183.csv
+Match rate: 224/23200 (0.97%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_184.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_184.csv
+Match rate: 604/33060 (1.83%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_185.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_185.csv
+Match rate: 365/41760 (0.87%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_186.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_186.csv
+Match rate: 947/42630 (2.22%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_187.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_187.csv
+Match rate: 34/30450 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_188.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_188.csv
+Match rate: 20/28130 (0.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_189.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_189.csv
+Match rate: 280/32190 (0.87%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_19.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_19.csv
+Match rate: 1080/40020 (2.70%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_190.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_190.csv
+Match rate: 594/40020 (1.48%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_191.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_191.csv
+Match rate: 1383/33060 (4.18%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_192.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_192.csv
+Match rate: 584/37120 (1.57%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_193.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_193.csv
+Match rate: 867/35670 (2.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_194.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_194.csv
+Match rate: 7/23780 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_195.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_195.csv
+Match rate: 80/30740 (0.26%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_196.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_196.csv
+Match rate: 938/53650 (1.75%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_197.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_197.csv
+Match rate: 257/31320 (0.82%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_198.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_198.csv
+Match rate: 273/34220 (0.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_199.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_199.csv
+Match rate: 22/24650 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_2.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_2.csv
+Match rate: 256/26970 (0.95%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_20.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_20.csv
+Match rate: 374/33930 (1.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_200.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_200.csv
+Match rate: 3/19720 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_201.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_201.csv
+Match rate: 203/19430 (1.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_202.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_202.csv
+Match rate: 212/20010 (1.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_203.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_203.csv
+Match rate: 10/22910 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_204.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_204.csv
+Match rate: 18/14790 (0.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_205.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_205.csv
+Match rate: 0/22620 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_206.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_206.csv
+Match rate: 656/39440 (1.66%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_207.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_207.csv
+Match rate: 7/17110 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_208.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_208.csv
+Match rate: 9/38860 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_209.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_209.csv
+Match rate: 308/30740 (1.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_21.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_21.csv
+Match rate: 841/30160 (2.79%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_210.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_210.csv
+Match rate: 301/28130 (1.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_211.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_211.csv
+Match rate: 0/17980 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_212.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_212.csv
+Match rate: 236/25810 (0.91%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_213.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_213.csv
+Match rate: 0/17110 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_214.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_214.csv
+Match rate: 256/37410 (0.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_215.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_215.csv
+Match rate: 2/16240 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_216.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_216.csv
+Match rate: 839/36540 (2.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_217.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_217.csv
+Match rate: 3100/85550 (3.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_218.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_218.csv
+Match rate: 4022/84390 (4.77%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_219.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_219.csv
+Match rate: 295/33060 (0.89%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_22.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_22.csv
+Match rate: 282/22040 (1.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_220.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_220.csv
+Match rate: 272/34220 (0.79%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_23.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_23.csv
+Match rate: 37/29580 (0.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_24.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_24.csv
+Match rate: 385/33350 (1.15%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_25.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_25.csv
+Match rate: 2/20590 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_26.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_26.csv
+Match rate: 1066/39730 (2.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_27.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_27.csv
+Match rate: 21/23780 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_28.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_28.csv
+Match rate: 168/41760 (0.40%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_29.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_29.csv
+Match rate: 1062/24650 (4.31%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_3.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_3.csv
+Match rate: 900/59740 (1.51%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_30.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_30.csv
+Match rate: 63/25230 (0.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_31.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_31.csv
+Match rate: 169/17980 (0.94%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_32.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_32.csv
+Match rate: 286/33930 (0.84%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_33.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_33.csv
+Match rate: 214/18850 (1.14%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_34.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_34.csv
+Match rate: 96/26100 (0.37%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_35.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_35.csv
+Match rate: 0/21750 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_36.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_36.csv
+Match rate: 721/48140 (1.50%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_37.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_37.csv
+Match rate: 410/39730 (1.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_38.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_38.csv
+Match rate: 41/25230 (0.16%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_39.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_39.csv
+Match rate: 0/40020 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_4.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_4.csv
+Match rate: 2/31900 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_40.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_40.csv
+Match rate: 68/38570 (0.18%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_41.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_41.csv
+Match rate: 4/20880 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_42.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_42.csv
+Match rate: 1186/35670 (3.32%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_43.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_43.csv
+Match rate: 1616/41760 (3.87%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_44.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_44.csv
+Match rate: 8/15660 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_45.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_45.csv
+Match rate: 240/26970 (0.89%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_46.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_46.csv
+Match rate: 1720/42340 (4.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_47.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_47.csv
+Match rate: 480/22620 (2.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_48.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_48.csv
+Match rate: 901/30450 (2.96%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_49.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_49.csv
+Match rate: 569/31030 (1.83%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_5.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_5.csv
+Match rate: 2/20010 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_50.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_50.csv
+Match rate: 960/32190 (2.98%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_51.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_51.csv
+Match rate: 4/12470 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_52.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_52.csv
+Match rate: 121/24360 (0.50%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_53.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_53.csv
+Match rate: 172/21460 (0.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_54.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_54.csv
+Match rate: 538/33060 (1.63%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_55.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_55.csv
+Match rate: 32/30450 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_56.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_56.csv
+Match rate: 56/20300 (0.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_57.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_57.csv
+Match rate: 18/15950 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_58.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_58.csv
+Match rate: 517/26100 (1.98%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_59.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_59.csv
+Match rate: 100/26680 (0.37%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_6.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_6.csv
+Match rate: 141/19140 (0.74%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_60.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_60.csv
+Match rate: 110/33930 (0.32%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_61.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_61.csv
+Match rate: 0/16820 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_62.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_62.csv
+Match rate: 18/20880 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_63.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_63.csv
+Match rate: 104/103820 (0.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_64.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_64.csv
+Match rate: 455/28710 (1.58%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_65.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_65.csv
+Match rate: 238/31610 (0.75%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_66.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_66.csv
+Match rate: 0/15660 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_67.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_67.csv
+Match rate: 750/24650 (3.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_68.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_68.csv
+Match rate: 71/35960 (0.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_69.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_69.csv
+Match rate: 202/24360 (0.83%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_7.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_7.csv
+Match rate: 0/12470 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_70.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_70.csv
+Match rate: 252/23490 (1.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_71.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_71.csv
+Match rate: 8/17690 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_72.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_72.csv
+Match rate: 25/42050 (0.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_73.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_73.csv
+Match rate: 0/18270 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_74.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_74.csv
+Match rate: 809/35380 (2.29%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_75.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_75.csv
+Match rate: 12/25810 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_76.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_76.csv
+Match rate: 27/24360 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_77.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_77.csv
+Match rate: 130/32190 (0.40%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_78.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_78.csv
+Match rate: 436/19720 (2.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_79.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_79.csv
+Match rate: 10/17110 (0.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_8.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_8.csv
+Match rate: 896/36830 (2.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_80.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_80.csv
+Match rate: 173/29580 (0.58%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_81.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_81.csv
+Match rate: 38/19140 (0.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_82.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_82.csv
+Match rate: 13/19430 (0.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_83.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_83.csv
+Match rate: 374/25520 (1.47%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_84.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_84.csv
+Match rate: 38/21750 (0.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_85.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_85.csv
+Match rate: 81/23490 (0.34%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_86.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_86.csv
+Match rate: 219/22620 (0.97%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_87.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_87.csv
+Match rate: 0/15950 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_88.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_88.csv
+Match rate: 69/26680 (0.26%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_89.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_89.csv
+Match rate: 31/23780 (0.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_9.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_9.csv
+Match rate: 0/17110 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_90.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_90.csv
+Match rate: 684/35380 (1.93%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_91.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_91.csv
+Match rate: 221/33060 (0.67%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_92.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_92.csv
+Match rate: 15/15660 (0.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_93.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_93.csv
+Match rate: 5/19140 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_94.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_94.csv
+Match rate: 626/31610 (1.98%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_95.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_95.csv
+Match rate: 6/17400 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_96.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_96.csv
+Match rate: 6/49590 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_97.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_97.csv
+Match rate: 124/35960 (0.34%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_98.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_98.csv
+Match rate: 5/27260 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/logitlens_logits_probabilities_99.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/logitlens_logits_probabilities_99.csv
+Match rate: 404/35960 (1.12%)
+
+============================================================
+Processing TUNEDLENS files
+============================================================
+Found 221 files to process
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_0.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_0.csv
+Match rate: 1750/30160 (5.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_1.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_1.csv
+Match rate: 430/22330 (1.93%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_10.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_10.csv
+Match rate: 569/21460 (2.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_100.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_100.csv
+Match rate: 30/17690 (0.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_101.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_101.csv
+Match rate: 5/11890 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_102.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_102.csv
+Match rate: 549/21750 (2.52%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_103.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_103.csv
+Match rate: 0/37990 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_104.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_104.csv
+Match rate: 103/23780 (0.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_105.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_105.csv
+Match rate: 182/17110 (1.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_106.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_106.csv
+Match rate: 221/25230 (0.88%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_107.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_107.csv
+Match rate: 1041/44080 (2.36%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_108.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_108.csv
+Match rate: 913/26100 (3.50%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_109.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_109.csv
+Match rate: 736/25230 (2.92%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_11.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_11.csv
+Match rate: 2779/49010 (5.67%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_110.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_110.csv
+Match rate: 0/16240 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_111.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_111.csv
+Match rate: 2195/40310 (5.45%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_112.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_112.csv
+Match rate: 132/20300 (0.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_113.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_113.csv
+Match rate: 530/21750 (2.44%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_114.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_114.csv
+Match rate: 1452/38860 (3.74%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_115.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_115.csv
+Match rate: 1349/51910 (2.60%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_116.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_116.csv
+Match rate: 770/27550 (2.79%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_117.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_117.csv
+Match rate: 688/20880 (3.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_118.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_118.csv
+Match rate: 912/42050 (2.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_119.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_119.csv
+Match rate: 31/18560 (0.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_12.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_12.csv
+Match rate: 29/20010 (0.14%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_120.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_120.csv
+Match rate: 37/120930 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_121.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_121.csv
+Match rate: 615/18270 (3.37%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_122.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_122.csv
+Match rate: 374/16820 (2.22%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_123.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_123.csv
+Match rate: 1039/29870 (3.48%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_124.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_124.csv
+Match rate: 51/20300 (0.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_125.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_125.csv
+Match rate: 1365/39730 (3.44%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_126.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_126.csv
+Match rate: 34/22330 (0.15%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_127.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_127.csv
+Match rate: 0/17690 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_128.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_128.csv
+Match rate: 131/20010 (0.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_129.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_129.csv
+Match rate: 3/14500 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_13.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_13.csv
+Match rate: 584/39730 (1.47%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_130.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_130.csv
+Match rate: 2/15660 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_131.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_131.csv
+Match rate: 802/38570 (2.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_132.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_132.csv
+Match rate: 230/16530 (1.39%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_133.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_133.csv
+Match rate: 19/16530 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_134.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_134.csv
+Match rate: 123/27260 (0.45%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_135.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_135.csv
+Match rate: 759/34220 (2.22%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_136.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_136.csv
+Match rate: 28/32190 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_137.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_137.csv
+Match rate: 865/20300 (4.26%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_138.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_138.csv
+Match rate: 756/24360 (3.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_139.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_139.csv
+Match rate: 0/24940 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_14.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_14.csv
+Match rate: 626/28130 (2.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_140.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_140.csv
+Match rate: 104/18270 (0.57%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_141.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_141.csv
+Match rate: 17/15370 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_142.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_142.csv
+Match rate: 406/17110 (2.37%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_143.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_143.csv
+Match rate: 41/19430 (0.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_144.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_144.csv
+Match rate: 743/24360 (3.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_145.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_145.csv
+Match rate: 0/21170 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_146.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_146.csv
+Match rate: 1337/40020 (3.34%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_147.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_147.csv
+Match rate: 2242/67860 (3.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_148.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_148.csv
+Match rate: 240/24650 (0.97%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_149.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_149.csv
+Match rate: 340/28420 (1.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_15.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_15.csv
+Match rate: 212/23780 (0.89%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_150.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_150.csv
+Match rate: 34/23780 (0.14%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_151.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_151.csv
+Match rate: 33/15370 (0.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_152.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_152.csv
+Match rate: 16/14210 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_153.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_153.csv
+Match rate: 87/47560 (0.18%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_154.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_154.csv
+Match rate: 1063/40600 (2.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_155.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_155.csv
+Match rate: 5/15370 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_156.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_156.csv
+Match rate: 1383/41760 (3.31%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_157.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_157.csv
+Match rate: 155/22910 (0.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_158.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_158.csv
+Match rate: 607/22910 (2.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_159.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_159.csv
+Match rate: 507/23780 (2.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_16.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_16.csv
+Match rate: 5115/124410 (4.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_160.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_160.csv
+Match rate: 2229/45530 (4.90%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_161.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_161.csv
+Match rate: 213/34220 (0.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_162.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_162.csv
+Match rate: 1362/33060 (4.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_163.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_163.csv
+Match rate: 137/21750 (0.63%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_164.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_164.csv
+Match rate: 420/25520 (1.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_165.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_165.csv
+Match rate: 3/19430 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_166.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_166.csv
+Match rate: 9/19430 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_167.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_167.csv
+Match rate: 1697/40310 (4.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_168.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_168.csv
+Match rate: 416/32480 (1.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_169.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_169.csv
+Match rate: 8/18560 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_17.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_17.csv
+Match rate: 25/18560 (0.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_170.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_170.csv
+Match rate: 853/35670 (2.39%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_171.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_171.csv
+Match rate: 995/30160 (3.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_172.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_172.csv
+Match rate: 1102/37410 (2.95%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_173.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_173.csv
+Match rate: 1283/51910 (2.47%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_174.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_174.csv
+Match rate: 1254/38860 (3.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_175.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_175.csv
+Match rate: 690/29870 (2.31%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_176.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_176.csv
+Match rate: 525/27550 (1.91%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_177.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_177.csv
+Match rate: 0/16530 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_178.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_178.csv
+Match rate: 1136/31610 (3.59%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_179.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_179.csv
+Match rate: 5/16240 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_18.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_18.csv
+Match rate: 4/12470 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_180.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_180.csv
+Match rate: 1051/35960 (2.92%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_181.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_181.csv
+Match rate: 1841/31900 (5.77%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_182.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_182.csv
+Match rate: 21/22330 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_183.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_183.csv
+Match rate: 462/23200 (1.99%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_184.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_184.csv
+Match rate: 958/33060 (2.90%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_185.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_185.csv
+Match rate: 1150/41760 (2.75%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_186.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_186.csv
+Match rate: 2405/42630 (5.64%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_187.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_187.csv
+Match rate: 131/30450 (0.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_188.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_188.csv
+Match rate: 75/28130 (0.27%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_189.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_189.csv
+Match rate: 780/32190 (2.42%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_19.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_19.csv
+Match rate: 1244/40020 (3.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_190.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_190.csv
+Match rate: 2111/40020 (5.27%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_191.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_191.csv
+Match rate: 1863/33060 (5.64%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_192.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_192.csv
+Match rate: 845/37120 (2.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_193.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_193.csv
+Match rate: 1058/35670 (2.97%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_194.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_194.csv
+Match rate: 16/23780 (0.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_195.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_195.csv
+Match rate: 258/30740 (0.84%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_196.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_196.csv
+Match rate: 1834/53650 (3.42%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_197.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_197.csv
+Match rate: 850/31320 (2.71%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_198.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_198.csv
+Match rate: 386/34220 (1.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_199.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_199.csv
+Match rate: 56/24650 (0.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_2.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_2.csv
+Match rate: 786/26970 (2.91%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_20.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_20.csv
+Match rate: 1288/33930 (3.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_200.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_200.csv
+Match rate: 11/19720 (0.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_201.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_201.csv
+Match rate: 130/19430 (0.67%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_202.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_202.csv
+Match rate: 547/20010 (2.73%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_203.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_203.csv
+Match rate: 28/22910 (0.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_204.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_204.csv
+Match rate: 49/14790 (0.33%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_205.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_205.csv
+Match rate: 0/22620 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_206.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_206.csv
+Match rate: 994/39440 (2.52%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_207.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_207.csv
+Match rate: 16/17110 (0.09%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_208.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_208.csv
+Match rate: 31/38860 (0.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_209.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_209.csv
+Match rate: 917/30740 (2.98%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_21.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_21.csv
+Match rate: 1023/30160 (3.39%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_210.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_210.csv
+Match rate: 976/28130 (3.47%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_211.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_211.csv
+Match rate: 0/17980 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_212.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_212.csv
+Match rate: 628/25810 (2.43%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_213.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_213.csv
+Match rate: 0/17110 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_214.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_214.csv
+Match rate: 903/37410 (2.41%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_215.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_215.csv
+Match rate: 6/16240 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_216.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_216.csv
+Match rate: 1218/36540 (3.33%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_217.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_217.csv
+Match rate: 5690/85550 (6.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_218.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_218.csv
+Match rate: 6427/84390 (7.62%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_219.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_219.csv
+Match rate: 1347/33060 (4.07%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_22.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_22.csv
+Match rate: 543/22040 (2.46%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_220.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_220.csv
+Match rate: 1097/34220 (3.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_23.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_23.csv
+Match rate: 112/29580 (0.38%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_24.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_24.csv
+Match rate: 888/33350 (2.66%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_25.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_25.csv
+Match rate: 10/20590 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_26.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_26.csv
+Match rate: 2331/39730 (5.87%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_27.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_27.csv
+Match rate: 60/23780 (0.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_28.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_28.csv
+Match rate: 488/41760 (1.17%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_29.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_29.csv
+Match rate: 1975/24650 (8.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_3.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_3.csv
+Match rate: 945/59740 (1.58%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_30.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_30.csv
+Match rate: 88/25230 (0.35%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_31.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_31.csv
+Match rate: 378/17980 (2.10%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_32.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_32.csv
+Match rate: 831/33930 (2.45%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_33.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_33.csv
+Match rate: 552/18850 (2.93%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_34.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_34.csv
+Match rate: 193/26100 (0.74%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_35.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_35.csv
+Match rate: 0/21750 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_36.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_36.csv
+Match rate: 2219/48140 (4.61%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_37.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_37.csv
+Match rate: 1295/39730 (3.26%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_38.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_38.csv
+Match rate: 131/25230 (0.52%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_39.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_39.csv
+Match rate: 1/40020 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_4.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_4.csv
+Match rate: 2/31900 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_40.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_40.csv
+Match rate: 87/38570 (0.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_41.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_41.csv
+Match rate: 10/20880 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_42.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_42.csv
+Match rate: 1828/35670 (5.12%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_43.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_43.csv
+Match rate: 4007/41760 (9.60%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_44.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_44.csv
+Match rate: 138/15660 (0.88%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_45.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_45.csv
+Match rate: 772/26970 (2.86%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_46.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_46.csv
+Match rate: 2978/42340 (7.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_47.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_47.csv
+Match rate: 663/22620 (2.93%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_48.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_48.csv
+Match rate: 1541/30450 (5.06%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_49.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_49.csv
+Match rate: 1859/31030 (5.99%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_5.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_5.csv
+Match rate: 7/20010 (0.03%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_50.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_50.csv
+Match rate: 2523/32190 (7.84%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_51.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_51.csv
+Match rate: 19/12470 (0.15%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_52.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_52.csv
+Match rate: 245/24360 (1.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_53.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_53.csv
+Match rate: 510/21460 (2.38%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_54.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_54.csv
+Match rate: 878/33060 (2.66%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_55.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_55.csv
+Match rate: 101/30450 (0.33%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_56.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_56.csv
+Match rate: 149/20300 (0.73%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_57.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_57.csv
+Match rate: 42/15950 (0.26%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_58.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_58.csv
+Match rate: 1596/26100 (6.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_59.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_59.csv
+Match rate: 61/26680 (0.23%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_6.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_6.csv
+Match rate: 421/19140 (2.20%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_60.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_60.csv
+Match rate: 245/33930 (0.72%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_61.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_61.csv
+Match rate: 0/16820 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_62.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_62.csv
+Match rate: 22/20880 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_63.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_63.csv
+Match rate: 314/103820 (0.30%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_64.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_64.csv
+Match rate: 1343/28710 (4.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_65.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_65.csv
+Match rate: 843/31610 (2.67%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_66.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_66.csv
+Match rate: 0/15660 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_67.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_67.csv
+Match rate: 808/24650 (3.28%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_68.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_68.csv
+Match rate: 290/35960 (0.81%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_69.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_69.csv
+Match rate: 538/24360 (2.21%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_7.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_7.csv
+Match rate: 0/12470 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_70.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_70.csv
+Match rate: 622/23490 (2.65%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_71.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_71.csv
+Match rate: 14/17690 (0.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_72.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_72.csv
+Match rate: 130/42050 (0.31%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_73.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_73.csv
+Match rate: 3/18270 (0.02%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_74.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_74.csv
+Match rate: 1006/35380 (2.84%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_75.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_75.csv
+Match rate: 79/25810 (0.31%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_76.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_76.csv
+Match rate: 28/24360 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_77.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_77.csv
+Match rate: 696/32190 (2.16%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_78.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_78.csv
+Match rate: 655/19720 (3.32%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_79.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_79.csv
+Match rate: 19/17110 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_8.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_8.csv
+Match rate: 1766/36830 (4.80%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_80.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_80.csv
+Match rate: 616/29580 (2.08%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_81.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_81.csv
+Match rate: 109/19140 (0.57%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_82.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_82.csv
+Match rate: 137/19430 (0.71%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_83.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_83.csv
+Match rate: 428/25520 (1.68%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_84.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_84.csv
+Match rate: 206/21750 (0.95%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_85.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_85.csv
+Match rate: 203/23490 (0.86%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_86.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_86.csv
+Match rate: 630/22620 (2.79%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_87.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_87.csv
+Match rate: 0/15950 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_88.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_88.csv
+Match rate: 296/26680 (1.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_89.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_89.csv
+Match rate: 60/23780 (0.25%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_9.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_9.csv
+Match rate: 0/17110 (0.00%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_90.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_90.csv
+Match rate: 857/35380 (2.42%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_91.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_91.csv
+Match rate: 800/33060 (2.42%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_92.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_92.csv
+Match rate: 20/15660 (0.13%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_93.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_93.csv
+Match rate: 21/19140 (0.11%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_94.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_94.csv
+Match rate: 1374/31610 (4.35%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_95.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_95.csv
+Match rate: 7/17400 (0.04%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_96.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_96.csv
+Match rate: 6/49590 (0.01%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_97.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_97.csv
+Match rate: 677/35960 (1.88%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_98.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_98.csv
+Match rate: 13/27260 (0.05%)
+
+Processing: /mnt/storage/deeksha/indictunedlens/results/m_mmlu_mr/tunedlens_logits_probabilities_99.csv
+Saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr/tunedlens_logits_probabilities_99.csv
+Match rate: 1193/35960 (3.32%)
+
+============================================================
+Processing complete!
+Modified files saved to: /mnt/storage/deeksha/indictunedlens/results_with_matches/m_mmlu_mr
+============================================================
