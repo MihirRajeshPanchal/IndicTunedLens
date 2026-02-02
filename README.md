@@ -1,7 +1,7 @@
 # Indic-TunedLens: Interpreting Multilingual Models in Indian Languages
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://github.com/AnonymousAccountACL/IndicTunedLens)
-[![Demo](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/AnonymousAccountACL/IndicTunedLens)
+[![Paper](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://github.com/MihirRajeshPanchal/IndicTunedLens)
+[![Demo](https://img.shields.io/badge/🤗%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/MihirRajeshPanchal/IndicTunedLens)
 [![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 
 A novel interpretability framework that extends the Tuned Lens approach to Indian languages by learning affine transformations for better multilingual model understanding using the Sarvam-1 model.
