@@ -105,18 +105,25 @@ Each analysis script generates detailed CSV files with:
 
 ### Evaluation Data [Multilingual MMLU](https://huggingface.co/datasets/alexandrainst/m_mmlu)
 
-<!--- 
+
 
 ## 📝 Citation
 
 If you use Indic-TunedLens in your research, please cite:
 
 ```bibtex
-
+@article{panchal2026indic,
+      title={Indic-TunedLens: Interpreting Multilingual Models in Indian Languages},
+      author={Mihir Panchal and Deeksha Varshney and Mamta and Asif Ekbal},
+      year={2026},
+      eprint={2602.15038},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.15038}, 
+}
 ```
 
 
---->
 
 ---
 
